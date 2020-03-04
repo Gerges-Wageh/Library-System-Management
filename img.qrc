@@ -1,0 +1,13 @@
+<!DOCTYPE RCC>
+<RCC version="1.0">
+<qresource>
+    <file>img/Settings.png</file>
+    <file>img/Books.png</file>
+    <file>img/Clients.png</file>
+    <file>img/Dashboard.png</file>
+    <file>img/History.png</file>
+    <file>img/Reports.png</file>
+    <file>img/Today.png</file>
+   
+</qresource>
+</RCC>
